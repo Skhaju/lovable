@@ -3,5 +3,5 @@ node_modules
 .vinxi
 .vercel
 dist
-supabase
+/supabase
 .env
